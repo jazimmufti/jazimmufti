@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jazim Mufti 👋</h1>
+<h1 align="center">Hi, I'm Mufti Jazim👋</h1>
 
 <h3 align="center">
 AI/ML Engineer • Data Analyst • GenAI Developer
