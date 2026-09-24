@@ -78,7 +78,7 @@ LLMs • RAG • LangChain • LangGraph • Prompt Engineering • FastAPI
 ### Backend & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,mysql,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres,git,github" />
 </p>
 
 **FastAPI · REST APIs · SQL · Data Modeling · Docker · AWS · Git · GitHub**
