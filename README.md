@@ -49,6 +49,48 @@ LLMs • RAG • LangChain • LangGraph • Prompt Engineering • FastAPI
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,js,sql" />
+</p>
+
+**Python · SQL · C · JavaScript**
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+**Machine Learning · Deep Learning · NLP · Generative AI · RAG · Transformers · Computer Vision**
+
+### Data & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Pandas · NumPy · Matplotlib · Excel · Power BI · SQL · EDA**
+
+### Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,mysql,postgres,git,github" />
+</p>
+
+**FastAPI · REST APIs · SQL · Data Modeling · Docker · AWS · Git · GitHub**
+
+### AI Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=langchain" />
+</p>
+
+**LangChain · LangGraph · Hugging Face · RAG · LLM APIs · Prompt Engineering · MCP**
+
 ## 🚀 Featured Projects
 
 ### 🎥 YouTube Transcript Bot
